@@ -24,7 +24,7 @@ This project demonstrates basic React concepts such as *components, **state mana
 ---
 
 ## 📸 Preview
-![App Screenshot](./screenshot.png)  
+![App Screenshot](./Preview.png)  
 *(Take a screenshot of your app, save it as screenshot.png in the root folder, and it will appear here.)*
 
 ---
